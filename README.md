@@ -1,10 +1,8 @@
-# react-company-management
-It main use react,redux, material-ui, jquery(ajax,well be removed). webpack,babel,gulp build the project.
-###
-1. enviroment nodejs，npm。
-2. npm install -g gulp
-3. npm install。
-4. gulp。build file and visit localhost:8000。
+1. 安装 nodejs，npm。
+2. npm install -g gulp. 安装gulp
+3. npm install 安装各个模块。
+4. gulp。编译文件 localhost:8000访问。
+
 
 目前已知问题
    1.gulp 增加 dev，product 环境
