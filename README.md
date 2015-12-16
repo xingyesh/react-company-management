@@ -11,3 +11,7 @@
    4.在每个组件的 shouldComponentUpdate方法  增加 props判断，减少不必要的判断
    5.增加react-router，增加按需加载
    6.把jquery移除，使用fetch或者其他的方式处理ajax请求
+   
+使用技术：
+    react, redux, material-ui
+    gulp, webpack,  babel 编译构建
