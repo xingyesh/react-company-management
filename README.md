@@ -2,7 +2,7 @@
 2. npm install -g gulp. 安装gulp
 3. npm install 安装各个模块。
 4. gulp。编译文件 localhost:8000访问。
-
+5. test5. test5. test5. test5. test
 
 目前已知问题
    1.gulp 增加 dev，product 环境
